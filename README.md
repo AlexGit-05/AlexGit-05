@@ -6,7 +6,7 @@ Data Analyst and Data Scientist
 
 I have been learning and building my skills as a data scientist for the past 5 years. I started by using R for data manipulation and data analysis later progressed to using Python and building models.
 
-* 🌍  I'm based in Nairobi
+* 🌍  I'm based in Kiambu, Kenya
 * 🧠  I'm currently building my skills and epanding my knowledge towards computer vision and NLP
 * 🤝  I'm open to collaborating on Projects entailing Machine learning and Artificial Inteligence
 
