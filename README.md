@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex Waweru
 ===================================================================================================================================
 
-Data Scientist
+Data Scientist and Algorithim Engineer
 -------------------------------
 
 I have been learning and building my skills as a data scientist for the past 5 years. I started by using R for data manipulation and data analysis later progressed to using Python and building models.
