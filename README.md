@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a data scientist with 6 experience specializing in large language models (LLM) and computer vision, with a strong focus on leveraging AI for solving complex, real-world problems. Currently, I am refining my skills in LLM and computer vision and actively seeking collaboration opportunities on projects that integrate these technologies.<br><br>In addition to my AI work, I am developing an application that automates various tasks related to energy management, including power plant financial modeling, daily dispatch analysis, and revenue performance analysis. This app aims to streamline operations and provide actionable insights for optimizing energy production, distribution, and financial performance. My expertise in machine learning, data analysis, and model development allows me to contribute to both technical and business aspects of energy solutions.
+I hold a Bachelor of Science degree in Applied Statistics with Computing, which laid a solid foundation for my career as a Data Scientist. With six years of experience leveraging data insights, I specialize in transforming complex datasets into actionable strategies through expertise in machine learning, deep learning, statistical analysis, and algorithm engineering for automation.
+
+I excel in using Python for advanced machine learning (ML) and deep learning (DL) modeling, R for in-depth statistical and data analysis, SQL for efficient database management, and Power BI for dynamic reporting and interactive data visualization. My blend of technical expertise and practical experience allows me to seamlessly bridge theoretical knowledge with real-world applications.
+
+Currently, I am enhancing my skills in cutting-edge technologies, including large language models (LLMs) and computer vision, and I am eager to collaborate on innovative projects that harness the transformative power of AI. In addition, I am developing an advanced energy management application that automates key processes such as power plant financial modeling, daily dispatch analysis, and revenue performance tracking. This initiative aims to optimize energy operations and provide actionable insights for improved decision-making.
+
+With a passion for solving complex problems and a proven ability to deliver impactful solutions, I thrive at the intersection of data science and business strategy, bringing value to every project I undertake.
 
 
 ## 🌐 Socials:
