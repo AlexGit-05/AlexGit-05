@@ -1,26 +1,23 @@
-# 💫 About Me:
-# 👋 Hello, I'm Alex Waweru
+# Professional Profile:
+# Hello, I'm Alex Waweru
 
-I'm a Data Scientist with 4+ years of experience in transforming complex data into actionable insights. I hold a BSc in Applied Statistics with Computing, which has provided me with a strong foundation in statistical modeling, machine learning, and algorithm engineering for automation.
+AI Engineer with 5+ years of professional experience as a Data Scientist, specializing in designing and deploying production-ready, agentic AI systems. Holding a BSc in Applied Statistics with Computing, I leverage deep expertise in statistical modeling, machine learning, and algorithmic automation to build intelligent, scalable solutions that deliver measurable business impact.
 
-💻 I specialize in:
-- **Python** for advanced ML/DL model development
-- **R** for statistical computing and exploratory data analysis
-- **SQL** for database querying and data pipeline design
-- **Power BI** for creating dynamic, interactive dashboards
+## Core Technical Expertise:
 
-🚀 I'm currently expanding my skills in:
-- **Large Language Models (LLMs)**
-- **Computer Vision**
-- **Agentic AI frameworks** (e.g., LangChain, LangGraph)
+- Python for end-to-end AI/ML development, agentic workflows, and high-performance backend services
+- R & SQL for advanced statistical analysis, exploratory research, and data pipeline engineering
+- Power BI for building interactive, executive-level dashboards and data storytelling
 
-🛠️ Recent Projects:
-I'm developing an AI-powered **Energy Management System** to automate financial modeling, dispatch analysis, and revenue tracking for power plants—delivering real-time analytics to optimize operations.
+## AI Engineering Specialization:
 
-📈 My passion lies at the intersection of data science and strategy building solutions that are both technically robust and business-driven.
+- Architecting multi-agentic systems using LangChain, LangGraph, Agno, and MCP
+- Implementing stateful workflows, persistent memory, decision loops, and secure tool orchestration
+- Developing robust backends with FastAPI, GraphQL, and Supabase
+- Enabling secure, sandboxed code execution and third-party integrations via Docker
 
-Let's collaborate on projects that drive innovation with AI and data!
-
+## Flagship Project:
+Leading development of an AI-powered Energy Management System that uses autonomous agents to automate financial modeling, dispatch optimization, revenue forecasting, and real-time operational analytics for power plants.
 
 
 ## 🌐 Socials:
