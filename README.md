@@ -1,6 +1,7 @@
 # Professional Profile
 
 **Hello, I'm Alex Waweru**
+
 AI Engineer with 5+ years of professional experience as a Data Scientist, specializing in designing and deploying production-ready, agentic AI systems. Holding a BSc in Applied Statistics with Computing, I leverage deep expertise in statistical modeling, machine learning, and algorithmic automation to build intelligent, scalable solutions that deliver measurable business impact.
 
 ## Core Technical Expertise
